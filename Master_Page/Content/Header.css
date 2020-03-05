@@ -1,0 +1,62 @@
+﻿.header-right {
+    height: 5%;
+    width: 100%;
+    border-color: black;
+    padding: 30px;
+    display: flex;
+    flex-direction: row;
+    background: #222222;
+    color: white;
+    font-size: 30px;
+    
+}
+/*body {
+    background-image: url("~/res/EPAM_LOGO_Primary.png");
+}*/
+/*background-image{
+    height:70px;
+    width:100%;
+}*/
+img {
+    height: 10%;
+    width: 10%;
+}
+#bottom {
+    text-align:center;
+    height: 5%;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    background: #222222;
+    border-color: black;
+    color:white;
+}
+b{
+    color:white;
+}
+/*.bdy {
+    min-width: 999px;
+    margin: 0 auto;
+    min-height: 100%;
+}*/
+
+/*.middle{
+    width:1px;
+    height:9px;
+    background-image :url('~/res/EPAM_winter_party-081_72DPI RGB_.jpg');
+}*/
+.loginWindow {
+    border: solid;
+    width: 500px;
+    height: 500px;
+    margin: 20px auto;
+    padding: 5%;
+    border-radius: 10%;
+}
+input{
+    margin:20px 30px;
+    height:30px;
+    width:200px;
+    box-shadow:10px;
+}
